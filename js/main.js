@@ -5,9 +5,9 @@ let pizzaOptions = {
         price: 10000
       },
       {
-        name: "Qalin",
-        price: 10000
-      },
+          name: "Qalin",
+          price: 10000
+        },
       {
         name: "Buxanka",
         price: 7000
@@ -69,6 +69,10 @@ let pizzaOptions = {
       {
         name: "Sosiska",
         price: 7000
+      },
+      {
+          name: "Qo'y go'shtli",
+          price: 20000 
       }
     ]
   };
